@@ -127,18 +127,19 @@
         <a class="lg:px-8 lg:py-4 lg:font-semibold lg:text-xl text-xl font-semibold py-2 px-2 bg-[#00408A]"
             href="https://flutterwave.com/donate/e6sdsxqnhjei">Donate</a>
         <a class="lg:px-8 lg:py-4 lg:font-semibold lg:text-xl text-xl font-semibold py-2 px-2"
-            href="/tributes">Tribute</a>
+            href="/tributes">Tributes</a>
     </header>
     {{-- HEADER SECTION END --}}
 
     {{-- HERO SECTION START --}}
     <section class="w-full max-w-[100vw] max-h-[85vh] lg:max-h-[85vh] relative" id="hero">
-        <div class="bg-black opacity-60 w-full h-auto absolute"></div>
+        <div class="bg-black opacity-60 w-full h-full absolute"></div>
         <div class="absolute w-full h-full flex flex-col items-center justify-center gap-12">
             <h1 class="font-bold lg:text-[100px] text-6xl lora">Biography</h1>
         </div>
         <div class="flex items-center justify-center max-w-full h-max">
-            <img src="/images/main_daddy.jpeg" class="lg:h-auto h-[40vh] w-full lg:block hidden" alt="">
+            <img src="/images/main_daddy.jpeg" class="lg:h-auto lg:max-h-[85vh] h-[40vh] w-full lg:block hidden"
+                alt="">
             <img src="/images/daddy_3.png" class="lg:hidden block max-h-[85vh]" alt="">
         </div>
     </section>

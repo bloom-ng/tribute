@@ -158,7 +158,7 @@
             </p>
         </div>
         <div class="flex items-center justify-center max-w-full h-max">
-            <img src="/images/main_daddy.jpeg" class="lg:h-auto h-[40vh] w-full" alt="">
+            <img src="/images/main_daddy.jpeg" class="lg:h-auto lg:max-h-[85vh] h-[40vh] w-full" alt="">
             {{-- <img src="/images/daddy_3.png" class="max-h-[85vh]" alt=""> --}}
         </div>
     </section>
