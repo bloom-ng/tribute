@@ -16,7 +16,7 @@ class CreateTributesTable extends Migration
         Schema::create('tributes', function (Blueprint $table) {
             $table->id();
             $table->string('name');
-            $table->string('content');
+            $table->text('content');
             $table->enum('artifact', ["1", "2", "3"])->default("1");
             $table->timestamps();
         });

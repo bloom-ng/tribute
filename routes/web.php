@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\TributeController;
+use App\Models\Tribute;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -15,4 +16,13 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [TributeController::class, 'index']);
-Route::post('/', [TributeController::class, 'create']);
+Route::post('/create', [TributeController::class, 'create']);
+
+Route::get('/tributes', function () {
+    $tributes = Tribute::latest()->paginate(15);
+    return view('tribute', ['tributes' => $tributes]);
+});
+
+Route::get('/biography', function () {
+    return view('biography');
+});

@@ -9,7 +9,7 @@ class TributeController extends Controller
 {
     public function index()
     {
-        $tributes = Tribute::all();
+        $tributes = Tribute::latest()->limit(5)->get();
 
         return view("home", ["tributes" => $tributes]);
     }
@@ -24,6 +24,6 @@ class TributeController extends Controller
 
         Tribute::create($validated);
 
-        return $this->index();
+        return redirect("/");
     }
 }
