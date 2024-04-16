@@ -144,17 +144,13 @@
         <div class="absolute w-full h-full flex flex-col items-center justify-center gap-12">
             <h1 class="font-bold lg:text-[100px] text-4xl lora">Michael Agharaye</h1>
             <p
-                class="xl:w-[42%] lg:w-[60%] px-8 sm:w-full font-bold text-wrap text-center lg:text-[25px] text-sm lg:leading-8 leading-5">
-                You
-                left us so soon but
-                God
-                loves you
-                the most
-                thats
-                why
-                he
-                called you to come and rest. We still love
-                you and you will continue to reside in our hearts.
+                class="xl:w-[42%] lg:w-[60%] px-8 sm:w-full font-semibold text-wrap text-center lg:text-[25px] text-sm lg:leading-8 leading-5">
+                Good people pass away;
+                the godly often die before their time.
+                But no one seems to care or wonder why.
+                No one seems to understand
+                that God is protecting them from the evil to come. <br> <br>
+                <span class="font-normal underline italic text-lg leading-5 lora"> Isiah: 57 vs 1</span>
             </p>
         </div>
         <div class="flex items-center justify-center max-w-full h-max">
@@ -172,14 +168,16 @@
             class="lg:basis-1/2 flex flex-col gap-4 xl:px-24 lg:px:12 self-start lato-regular lg:text-[16px] text-[12px]">
             <h1 class="font-bold lg:text-6xl text-4xl roboto-bold">Biography</h1>
             <p class="leading-8">
-                Agharaye Amejuma Michael was born on the June 15th, 1962, in Abeugborodo community of Delta State, to
-                the family of late Mr & Mrs Akigbe AgharayeDudu of _______ community. He attended Umuegbe Primary School
-                where he obtained his first school leaving certificate in the year 1978, after which he proceeded to Zik
-                Grammar School where he obtained his secondary school leaving certificate in the year 1984.
+                Special Apostle Evangelist Michael Agharaye was born on the June 15th, 1962, in Abeugborodo Community of
+                Delta State, to the family of late Mr & Mrs Akigbe Agharaye-Dudu of Obontegbhareda Community.
+                He attended Umuegbe Primary School Abeugborodo, Warri North Local Government of Delta State, where he
+                obtained his first school leaving certificate in the year 1978, after which he proceeded to Zik Grammar
+                School where he obtained his WAEC certificate in the year 1984.
                 After finishing his secondary school, he pursued a career in the hospitality industry. His hospitality
-                career started in Agura Hotel Abuja, where he worked as a Company Billing Clerk in the year1987. In 1989
-                he was then promoted to a role of computer operator where he strived and fell in love with accounting
-                while working with various accounting tools...
+                career started in Agura Hotel Abuja, where he worked as a Company Billing Clerk in the year 1987. In
+                1989 he was then promoted to a role of computer operator/Accountant where he strived and fell in love
+                with accounting while working with various accounting tools. Because of the love he had for the
+                hospitality industry, he went for a hospitality training...
             </p>
             <a href="/biography" class="px-4 py-2 border border-white self-start font-bold text-lg">Read More...</a>
         </div>
