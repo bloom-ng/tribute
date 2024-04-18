@@ -135,7 +135,7 @@
     <section class="w-full max-w-[100vw] max-h-[85vh] lg:max-h-[85vh] relative" id="hero">
         <div class="bg-black bg-opacity-30 w-full h-full absolute"></div>
         <div class="absolute w-full h-full flex flex-col items-center justify-center gap-12">
-            {{-- <h1 class="font-bold lg:text-[100px] text-6xl lora">Tributes</h1> --}}
+            <h1 class="font-bold lg:text-[100px] text-6xl lora">Tributes</h1>
             {{-- <p class="lg:w-[42%] font-bold text-wrap text-center lg:text-[25px]">You left us so soon but God loves you
                 the most
                 thats
@@ -147,10 +147,12 @@
             </p> --}}
         </div>
         <div class="flex items-center justify-center max-w-full h-max">
-            <img src="/images/main_daddy.jpeg" class="lg:h-auto lg:max-h-[85vh] h-[40vh] w-full lg:block hidden"
+            <img src="/images/new_daddy_6.jpg" class="lg:h-auto lg:max-h-[85vh] h-[40vh] w-full lg:block hidden"
                 alt="">
+            {{-- <img src="/images/main_daddy.jpeg" class="lg:h-auto lg:max-h-[85vh] h-[40vh] w-full lg:block hidden"
+                alt=""> --}}
             {{-- <img src="/images/daddy_2.png" class="h-[85vh] hidden lg:block" alt=""> --}}
-            <img src="/images/daddy_3.png" class="lg:hidden block max-h-[85vh]" alt="">
+            <img src="/images/new_daddy_6.jpg" class="lg:hidden block max-h-[85vh] w-full" alt="">
         </div>
     </section>
     {{-- HERO SECTION END --}}
