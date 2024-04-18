@@ -138,11 +138,11 @@
             <h1 class="font-bold lg:text-[100px] text-6xl lora">Biography</h1>
         </div>
         <div class="flex items-center justify-center max-w-full h-max">
-            <img src="/images/new_daddy_3.jpg" class="lg:h-auto lg:max-h-[85vh] h-[40vh] w-full lg:block hidden"
+            <img src="/images/new_daddy_3.JPG" class="lg:h-auto lg:max-h-[85vh] h-[40vh] w-full lg:block hidden"
                 alt="">
             {{-- <img src="/images/main_daddy.jpeg" class="lg:h-auto lg:max-h-[85vh] h-[40vh] w-full lg:block hidden"
                 alt=""> --}}
-            <img src="/images/new_daddy_3.jpg" class="lg:hidden block max-h-[85vh] w-full" alt="">
+            <img src="/images/new_daddy_3.JPG" class="lg:hidden block max-h-[85vh] w-full" alt="">
         </div>
     </section>
     {{-- HERO SECTION END --}}
