@@ -140,9 +140,15 @@
 
     {{-- HERO SECTION START --}}
     <section class="w-full  max-h-[85vh] lg:max-h-[85vh] relative" id="hero">
-        <div class="bg-black opacity-60 w-full h-full absolute"></div>
-        <div class="absolute w-full h-full flex flex-col items-center justify-center gap-12">
-            <h1 class="font-bold lg:text-[100px] text-4xl lora">Michael Agharaye</h1>
+        <div class="bg-black bg-opacity-50 w-full h-full absolute"></div>
+        <div class="absolute w-full h-full flex flex-col items-center justify-center lg:gap-12 gap-4">
+            <div class="flex flex-col w-full items-center lora">
+                <h1 class="lg:text-4xl font-light md:text-4xl text-xl">SPECIAL APOSTLE EVANGELIST</h1>
+                <h1 class="font-bold lg:text-[60px] md:text-4xl lora lg:my-8 text-xl my-4">MICHAEL AMEJUMA AGHARAYE
+                </h1>
+                <h1 class="lg:text-4xl font-light text-center lora md:text-4xl text-xl">(AMULUDUN OF IJESHA LAND) <br>
+                    ALIAS: OKPA-ESURU</h1>
+            </div>
             <p
                 class="xl:w-[42%] lg:w-[60%] px-8 sm:w-full font-semibold text-wrap text-center lg:text-[25px] text-sm lg:leading-8 leading-5">
                 Good people pass away;
@@ -150,7 +156,7 @@
                 But no one seems to care or wonder why.
                 No one seems to understand
                 that God is protecting them from the evil to come. <br> <br>
-                <span class="font-normal underline italic text-lg leading-5 lora"> Isiah: 57 vs 1</span>
+                <span class="font-normal underline italic text-lg leading-5 lora"> Isaiah: 57 vs 1</span>
             </p>
         </div>
         <div class="flex items-center justify-center max-w-full h-max">

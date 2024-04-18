@@ -133,9 +133,9 @@
 
     {{-- HERO SECTION START --}}
     <section class="w-full max-w-[100vw] max-h-[85vh] lg:max-h-[85vh] relative" id="hero">
-        <div class="bg-black opacity-60 w-full h-full absolute"></div>
+        <div class="bg-black bg-opacity-30 w-full h-full absolute"></div>
         <div class="absolute w-full h-full flex flex-col items-center justify-center gap-12">
-            <h1 class="font-bold lg:text-[100px] text-6xl lora">Biography</h1>
+            {{-- <h1 class="font-bold lg:text-[100px] text-6xl lora">Biography</h1> --}}
         </div>
         <div class="flex items-center justify-center max-w-full h-max">
             <img src="/images/main_daddy.jpeg" class="lg:h-auto lg:max-h-[85vh] h-[40vh] w-full lg:block hidden"

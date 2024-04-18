@@ -133,9 +133,9 @@
 
     {{-- HERO SECTION START --}}
     <section class="w-full max-w-[100vw] max-h-[85vh] lg:max-h-[85vh] relative" id="hero">
-        <div class="bg-black opacity-60 w-full h-full absolute"></div>
+        <div class="bg-black bg-opacity-30 w-full h-full absolute"></div>
         <div class="absolute w-full h-full flex flex-col items-center justify-center gap-12">
-            <h1 class="font-bold lg:text-[100px] text-6xl lora">Tributes</h1>
+            {{-- <h1 class="font-bold lg:text-[100px] text-6xl lora">Tributes</h1> --}}
             {{-- <p class="lg:w-[42%] font-bold text-wrap text-center lg:text-[25px]">You left us so soon but God loves you
                 the most
                 thats
